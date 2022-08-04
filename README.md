@@ -37,7 +37,7 @@
 - [<친다 /> 이용하러 가기](chinda.live)
 - [프론트엔드 GitHub](https://github.com/ChoiSungwoo1216/Chin_da_FE)
 - [백엔드 GitHub](https://github.com/biolkj28/AlgorithmGameProject-BE)
-
+- [팀 Notion](https://light-track-d8f.notion.site/2f73965ff9804b99a6c74d46808b88c3)
 <br />
 
 ## 🔧 기술스택
